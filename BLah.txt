@@ -1,1 +1,1 @@
-i am editing this text file for this commit!
+changing how time works in game
